@@ -5,7 +5,7 @@
 
 _Get started using GitHub in less than an hour._  
 
-Oder schau dir die [Überschrift](#eine-überschrift--mehr) an.
+Oder schau dir die [Überschrift](#eine-überschrift-mehr) an.
 
 
 
