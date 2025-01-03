@@ -7,6 +7,7 @@ _Get started using GitHub in less than an hour._
 
 Oder schau dir die [hier](#kompromisslösung-custom-slugifypy) an.
 
+Eine Datenabfrage wird aus Fachentwicklersicht repräsentiert durch ein [`IQuery<TEntity>`](#iquerytentity) 
 
 
 </header>
@@ -58,6 +59,9 @@ The following steps will guide you through the process of committing a change on
 7. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
+
+### IQuery<TEntity\>
+Lorem ipsum
 
 ---
 
