@@ -13,7 +13,9 @@ Oder schau dir die [hier](#kompromisslösung-custom-slugifypy) an.
 
 
 
+## Some Try:
 
+Eine Datenabfrage wird aus Fachentwicklersicht repräsentiert durch IQuery\<TEntity\> ein [IQuery\<TEntity\>](#iquerytentity) oder [IOrderedQuery\<TEntity\>](#iorderedquerytentity) (wenn Sortierungsanweisungen vorliegen) und enthält die Teile auf die er/sie Einfluss hat.
 
 
 
